@@ -1,0 +1,28 @@
+{
+  "name": "mini-rag-playground",
+  "version": "1.0.0",
+  "description": "An application in which user gives some text , and the app uses an AI model to answer questions based only on that specific text.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rohan29-De/Mini-Rag-Playground.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rohan29-De/Mini-Rag-Playground/issues"
+  },
+  "homepage": "https://github.com/Rohan29-De/Mini-Rag-Playground#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
